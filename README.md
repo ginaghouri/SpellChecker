@@ -1,2 +1,2 @@
 # SpellChecker
-Python Tkinter and PIL
+Python Tkinter, PIL and TextBlob
